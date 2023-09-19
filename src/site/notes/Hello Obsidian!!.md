@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/hello-obsidian/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-home":true,"dg-publish":true,"permalink":"/hello-obsidian/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
