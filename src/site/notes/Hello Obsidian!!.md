@@ -1,8 +1,8 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/hello-obsidian/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-home":true,"dg-publish":true,"permalink":"/hello-obsidian/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 
 # Hello Obsidian
 
-test !!
+test !! 22
