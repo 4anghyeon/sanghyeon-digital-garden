@@ -4,8 +4,7 @@
 
 
 ![array thumbnail.png](/img/user/array%20thumbnail.png)
-## ✔ 배열 (Array)
-
+## 배열 (Array)
 
 배열은 같은 타입의 값 *(이는 언어 마다 다를 수 있다..)* 들을 연속적으로 저장하는 메모리 장소이다. 배열에서는 주로 2가지를 중요시 여긴다 요소의 인덱스와, 요소 그 자체다. 프로그래밍언어마다 배열을 구현하는 방법이 다르고, 이는 시간 복잡도에 영향을 줄 수 있다. 예를 들어 파이썬, 자바스크립트, Ruby, PHP 등에서는 배열의 크기는 동적이다. 즉, 배열을 만들 때 크기를 지정할 필요가 없다. 그래서 코딩테스트 등에서 사용하기 더 편리하다.
 
@@ -19,7 +18,7 @@
 - 배열의 중간에 요소를 추가 혹은 제거하는 것이 느리다. 왜냐하면 추가, 삭제 후 나머지 요소들을 전부 밀어야 하기 때문이다. (끝 요소를 추가, 삭제하는 것은 예외)
 - 특정 언어의 경우 배열의 사이즈가 한번 정해지면, 그 이후에는 바꿀 수 없다. 만약 삽입으로 인해 배열의 크기를 초과할 경우 기존 배열의 요소를 전부 복사 후 새로운 배열을 할당해야 한다. 이는 `O(n)`의 시간 복잡도가 소요된다.
 
-## ✔️ 자바스크립트에서 배열
+## 자바스크립트에서 배열
 
 자바스크립트에서는 배열을 다음과 같이 만든다.
 
@@ -46,8 +45,7 @@ const arr6 = Array.from("Hello"); // ['H', 'e', 'l', 'l', 'o']
 > - 자바스크립트 배열은 해시 테이블로 구현된 객체이므로 인덱스로 접근하는 경우 일반적인 배열보다 성능적인 면에서 느릴 수 밖에 없는 구조이지만, 삽입, 삭제의 경우 일반적인 배열보다 빠른 성능을 기대할 수 있다.
 
 
-## ✔️ 용어
-
+## 용어
 
 - Subarray: 배열 내 연속적인 값들의 범위
     - ex) `[2, 3, 6, 1, 5, 4]`에서 `[3, 6, 1]`은 subarray다. 하지만 `[3, 1, 5]`는 연속적인 값이 아니기 때문에 subarray가 아니다.
@@ -55,8 +53,7 @@ const arr6 = Array.from("Hello"); // ['H', 'e', 'l', 'l', 'o']
     - ex)  `[2, 3, 6, 1, 5, 4]`에서 `[3, 1, 5]`은 subsequence다. 하지만 `[3, 5, 1]`는 요소의 순서가 변경됐기 때문에 subsequence가 아니다.
 
 
-## ✔️ 시간 복잡도
-
+## 시간 복잡도
 
 | **동작** | **Big-O** | **비고** |
 | --- | --- | --- |
@@ -69,8 +66,7 @@ const arr6 = Array.from("Hello"); // ['H', 'e', 'l', 'l', 'o']
 | 종점 삭제 | O(1) | 배열의 종점 요소를 삭제 할 경우 요소들의 shifting이 일어나지 않는다. |
 
 
-## ✔️ 기법
-
+## 기법
 
 배열과 문자열은 모두 sequences이기 때문에 여기 있는 대부분의 기술 들이 문자열 문제에도 적용이 된다.
 
@@ -118,9 +114,8 @@ const arr6 = Array.from("Hello"); // ['H', 'e', 'l', 'l', 'o']
 - LeetCode
     - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
     - [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
-    
 
-### Precomputation
+### Pre-computation
 
 subarray의 합이나 곱을 계산하는게 포함되어있는 문제라면 누적합, 부분합 등을 사전에 계산해놓고 이용하면 유용할 수 있다.
 
@@ -133,18 +128,17 @@ subarray의 합이나 곱을 계산하는게 포함되어있는 문제라면 누
 - LeetCode
     - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
     - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
-    
 
-## ✔️ 필수 문제
+## 필수 문제
 
 - LeetCode
     - [Two Sum](https://leetcode.com/problems/two-sum/)
     - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
     - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
     - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-    
 
-## ✔️ 추천 연습 문제
+
+## 추천 연습 문제
 
 - LeetCode
     - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
@@ -153,13 +147,9 @@ subarray의 합이나 곱을 계산하는게 포함되어있는 문제라면 누
     - [3Sum](https://leetcode.com/problems/3sum/)
     - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
     - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
-    
-    
-    
- 
+
 ---
 ### 참조
 
 > Do it 알고리즘 코딩 테스트 - Java 편
-[Array cheatsheet for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/array/)
->
+> [Array cheatsheet for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/array/)
