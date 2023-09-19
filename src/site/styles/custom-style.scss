@@ -11,10 +11,7 @@ body {
     //   color: black;
     //  }
 
-    aside {
-        background: #f4fce3;
-        border-radius: 15px;
-        padding: 15px;
-        box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    .markdown-rendered thead tr>th:nth-child(2n+2) {
+        background-color: var(--background-table-header);
     }
 }
