@@ -10,4 +10,8 @@ body {
     //  h1 {
     //   color: black;
     //  }
+    h2, .markdown-rendered h2, .HyperMD-header-2, .HyperMD-list-line .cm-header-2 {
+        border-bottom: 1px solid #868e96;
+        padding-bottom: 5px;
+    }
 }
