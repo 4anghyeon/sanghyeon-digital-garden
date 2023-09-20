@@ -3,23 +3,6 @@
 ---
 
 ![string thumbnail.png](/img/user/Data%20Structure/string%20thumbnail.png)
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-
-
-# Text Elements
-excalidraw test
-[[Data Structure/문자열 (String)\|문자열 (String)]] 
-
-
-</div></div>
-
-
 ## 문자열 (String)
 문자열은 문자들의 집합, 배열로서 엄밀하게 자료 구조라고 볼 수 없지만 [[Data Structure/배열 (Array)\|배열 (Array)]]과 유사하기 때문에 자료 구조의 하위 항목으로 묶었다.
 
@@ -60,7 +43,6 @@ excalidraw test
 ### 아나그램 (Anagram) 
 
 아나그램은 원래의 모든 글자중 하나씩만 사용하여 새로운 단어나 구를 만드는 놀이이다.
-
 두 문자열이 아나그램인지 확인하는 방법은 다음과 같이 있다.
 
 - 두 문자열을 모두 정렬하고, 정렬 결과가 같은지 확인한다. `O(n.log(n))`의 시간 복잡도를 가진다.
