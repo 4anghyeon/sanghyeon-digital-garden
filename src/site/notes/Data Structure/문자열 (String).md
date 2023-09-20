@@ -32,7 +32,7 @@ excalidraw test
 - [KMP](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) for efficient searching of substring
 
 ## 시간 복잡도
-문자열은 배열과 유사하기 때문에 시간 복잡도 또한 같다.
+문자열은 배열과 유사하기 때문에 시간 복잡도 또한 같다.  
 
 |동작|Big-O|
 |---|---|
