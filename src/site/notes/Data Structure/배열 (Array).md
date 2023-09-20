@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/data-structure/array/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
-
-![array thumbnail.png](/img/user/array%20thumbnail.png)
+![array thumbnail.png](/img/user/Data%20Structure/array%20thumbnail.png)
 ## 배열 (Array)
 
 배열은 같은 타입의 값 *(이는 언어 마다 다를 수 있다..)* 들을 연속적으로 저장하는 메모리 장소이다. 배열에서는 주로 2가지를 중요시 여긴다 요소의 인덱스와, 요소 그 자체다. 프로그래밍언어마다 배열을 구현하는 방법이 다르고, 이는 시간 복잡도에 영향을 줄 수 있다. 예를 들어 파이썬, 자바스크립트, Ruby, PHP 등에서는 배열의 크기는 동적이다. 즉, 배열을 만들 때 크기를 지정할 필요가 없다. 그래서 코딩테스트 등에서 사용하기 더 편리하다.
@@ -66,7 +65,7 @@ const arr6 = Array.from("Hello"); // ['H', 'e', 'l', 'l', 'o']
 
 ## 기법
 
-배열과 문자열은 모두 sequences이기 때문에 여기 있는 대부분의 기술 들이 문자열 문제에도 적용이 된다.
+배열과 [[열\|열]]은 모두 sequences이기 때문에 여기 있는 대부분의 기술 들이 문자열 문제에도 적용이 된다.
 
 #### Two pointers (투 포인터)
 투 포인터는 말 그대로 2개의 포인터를 이용해 배열을 검색하는 방법이다. 이중 반복문을 사용하지 않고 시간 복잡도를 줄이고, 원하는 값에 도달하기 위해 사용할 수 있다.
