@@ -23,7 +23,7 @@ excalidraw test
 ## 문자열 (String)
 문자열은 문자들의 집합, 배열로서 엄밀하게 자료 구조라고 볼 수 없지만 [[Data Structure/배열 (Array)\|배열 (Array)]]과 유사하기 때문에 자료 구조의 하위 항목으로 묶었다.
 
-문자열을 검색하기 위한 일반적인 자료 구조는 다음과 같이 있다. 
+문자열을 검색하기 위한 일반적인 자료 구조는 다음과 같이 있다.  
 - [Trie/Prefix Tree](https://en.wikipedia.org/wiki/Trie)
 - [Suffix Tree](https://en.wikipedia.org/wiki/Suffix_tree)
 
