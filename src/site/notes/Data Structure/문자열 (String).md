@@ -25,7 +25,7 @@ excalidraw test
 
 문자열을 검색하기 위한 일반적인 자료 구조는 다음과 같이 있다.  
 - [Trie/Prefix Tree](https://en.wikipedia.org/wiki/Trie)
-- [Suffix Tree](https://en.wikipedia.org/wiki/Suffix_tree)
+- [Suffix Tree](https://en.wikipedia.org/wiki/Suffix_tree) 
 
 그리고 문자열 관련 알고리즘은 다음과 같이 있다.
 - [Rabin Karp](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm) for efficient searching of substring using a rolling hash
