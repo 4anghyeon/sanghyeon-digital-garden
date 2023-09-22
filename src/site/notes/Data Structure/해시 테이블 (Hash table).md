@@ -51,3 +51,7 @@ hashing의 문제점은 해시 충돌인데, 이에 관한 충돌 해결 방법�
 	- [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 	- [LRU Cache](https://leetcode.com/problems/lru-cache/)
 	- [All O one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)
+
+---
+> 참조
+> [Array cheatsheet for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/array/)
