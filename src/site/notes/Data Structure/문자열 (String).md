@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-structure/string/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"tags":["자료구조"],"permalink":"/data-structure/string/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![string thumbnail.png](/img/user/Data%20Structure/string%20thumbnail.png)
@@ -73,3 +73,8 @@ Palindrome은 앞으로 읽어도, 뒤로 읽어도 거꾸로해도 같은 문�
     - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
     - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
     - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+
+---
+> 참조
+> Do it 알고리즘 코딩 테스트 - Java 편
+> [Array cheatsheet for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/array/)
