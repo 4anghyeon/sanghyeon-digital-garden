@@ -3,7 +3,6 @@
 ---
 
 ![two pointers thumbnail.png](/img/user/Algorithm/two%20pointers%20thumbnail.png)
-# 투 포인터
 투 포인터는 리스트에서 두 개의 포인터를 이용하여 시간 복잡도를 개선하기 위한 알고리즘이다. 투 포인터의 시간 복잡도는 O(n)이다.
 
 보통 리스트에서 연속된 부분합을 구할 때 사용한다.
