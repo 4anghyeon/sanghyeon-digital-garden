@@ -3,7 +3,6 @@
 ---
 
 ![Recursion thumbnail.png](/img/user/Algorithm/Recursion%20thumbnail.png)
-# 개요
 재귀는 어떠한 문제를 계산하기 위해 자기 자신에 의존하는 것을 말한다.
 
 모든 재귀 함수는 두 부분을 포함하고 있다.
