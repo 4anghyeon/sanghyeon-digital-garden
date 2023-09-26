@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/algorithm/sorting-and-searching/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
-# 개요
 정렬은 순서대로 요소를 숫자순, 문자순, 오름차순, 내림차순 등으로 재배열 하는 것이다.
 
 많은 기본 알고리즘이 `O(n^2)`으로 돌아가고, 이는 코딩 테스트에서 사용되어선 안된다. 코딩 테스트
