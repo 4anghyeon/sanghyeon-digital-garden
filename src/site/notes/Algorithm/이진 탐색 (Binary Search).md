@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/algorithm/binary-search/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
-# 이진 탐색 (Binary Search)
 이진 탐색은 데이터가 정렬되어 있는 상태에서 원하는 값을 찾아내는 알고리즘이다. 대상 데이터의 중앙값과 찾고자 하는 값을 비교해 검색 범위를 절반씩 줄이면서 대상을 찾는다.
 
 |기능|특징|시간 복잡도|
