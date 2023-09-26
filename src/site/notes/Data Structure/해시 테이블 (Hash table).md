@@ -3,8 +3,6 @@
 ---
 
 ![hashtable thumbnail.png](/img/user/Data%20Structure/hashtable%20thumbnail.png)
-## 해시 테이블 (Hash table)
-
 해시 테이블(해시 맵이라고도 불림)은 Key와 Value로 연관 데이터를 매핑 시켜주는 데이터 구조이다. 해시 함수를 통해 Key를 고유한 index로 변환하여 이 index를 이용하여 bucket이나 slot이라 불리는 배열등에 저장 한다.
 ![Pasted image 20230921155310.png|400](/img/user/Data%20Structure/Pasted%20image%2020230921155310.png)
 
