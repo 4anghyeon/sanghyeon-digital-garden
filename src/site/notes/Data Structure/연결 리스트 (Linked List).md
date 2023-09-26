@@ -3,7 +3,6 @@
 ---
 
 ![Linked List Thumbnail.png](/img/user/Data%20Structure/Linked%20List%20Thumbnail.png)
-# 연결 리스트 (Linked List)
 [[Data Structure/배열 (Array)\|배열]]과 마찬가지로, 연결 리스트는 연속적인 데이터를 보여주는 자료구조이다. 메모리에 연속된 공간에 저장되는 배열과는 달리 연결 리스트는 메모리의 물리적 배치에 순서가 지정되어있지 않다.
 
 연결 리스트는 인덱스를 갖지 않으며 데이터와 링크 필드를 갖고 있는 노드로 구성되어 있다. 링크에는 다음에 올 노드의 위치를 담고 있다.
