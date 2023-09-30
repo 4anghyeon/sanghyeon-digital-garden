@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/data-structure/stack/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
+![stack thumbnail.png](/img/user/Algorithm/stack%20thumbnail.png)
 스택은 후입선출(LIFO, Last-In-First-Out)의 구조를 가지는 자료구조이다.
-![Pasted image 20230930175535.png|400](/img/user/Pasted%20image%2020230930175535.png)
+![Pasted image 20230930175535.png|400](/img/user/Algorithm/Pasted%20image%2020230930175535.png)
 
 그림과 같이 한 쪽에서만 데이터를 넣고 뺄 수 있다. 정해진 Stack의 사이즈보다 많은 데이터를 쌓으려고할 때 `StackOverFlow`가 일어난다. Stack은 추상적인 자료 구조로서 [[Data Structure/배열 (Array)\|배열]]과 [[Data Structure/연결 리스트 (Linked List)\|연결 리스트]]로 구현할 수 있다.
 Stack은 중첩 혹은 재귀 함수를 구현하는데 있어서 중요한 방법이며, [[DFS (Depth First Search)\|DFS]]를 구현하는데 사용된다.
