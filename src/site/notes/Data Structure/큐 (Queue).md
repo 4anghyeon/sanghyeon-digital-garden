@@ -93,3 +93,8 @@ console.log(`size: ${queue.size}`);
 - LeetCode
 	-  [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
 	- [Design Hit Counter (LeetCode Premium)](https://leetcode.com/problems/design-hit-counter)
+
+
+---
+> 참조
+> [Array cheatsheet for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/array/)
