@@ -133,7 +133,7 @@
 
 # 필수 문제
 - LeetCode
-	- [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 	- [Flood Fill](https://leetcode.com/problems/flood-fill)
 	- [01 Matrix](https://leetcode.com/problems/01-matrix/)
 
