@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structure/stack/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/computer-science/data-structure/stack/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ![stack thumbnail.png](/img/user/Computer%20Science/Algorithm/stack%20thumbnail.png)
