@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structure/graph/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/computer-science/data-structure/graph/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ![graph thumbnail.png](/img/user/Computer%20Science/Data%20Structure/graph%20thumbnail.png)
@@ -10,7 +10,7 @@
 코딩테스트에서 그래프는 보통 이차원 행렬로 Input이 주어진다. 따라서 이차원 행렬을 탐색하는데 익숙해지는 것이 중요하다.
 
 
-# 트리와 그래프의 차이 점
+# 트리와 그래프의 차이점
 트리와 그래프의 차이점을 표로 정리하면 다음과 같다.
 
 | |**그래프**|**트리**|
