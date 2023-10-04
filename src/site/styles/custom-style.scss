@@ -14,4 +14,9 @@ body {
         border-bottom: 1px solid #868e96;
         padding-bottom: 5px;
     }
+
+    img[alt*="thumb"] {
+    width: 100% !important;
+    margin-top: 10px;
+    }
 }
