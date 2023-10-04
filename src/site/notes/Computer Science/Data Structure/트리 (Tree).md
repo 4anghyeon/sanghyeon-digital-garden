@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structure/tree/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/computer-science/data-structure/tree/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ![tree thumbnail.png](/img/user/Computer%20Science/Data%20Structure/tree%20thumbnail.png)
