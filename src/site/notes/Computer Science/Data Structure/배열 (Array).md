@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["자료구조"],"permalink":"/computer-science/data-structure/array/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"tags":["자료구조"],"permalink":"/computer-science/data-structure/array/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ![array thumbnail.png](/img/user/Computer%20Science/Data%20Structure/array%20thumbnail.png)
@@ -138,24 +138,4 @@ subarray의 합이나 곱을 계산하는게 포함되어있는 문제라면 누
 ---
 ### 참조
 > Do it 알고리즘 코딩 테스트 - Java 편
-> [Array cheatsheet for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/array/)
-
-
-
-> 참조
-> Do it 알고리즘 코딩 테스트 - Java 편
-> [Array cheatsheet for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/array/)
-
-
-
----
-> 참조
-> [Array cheatsheet for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/array/)
-
-
-
-
-
----
-> 참조
 > [Array cheatsheet for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/array/)
