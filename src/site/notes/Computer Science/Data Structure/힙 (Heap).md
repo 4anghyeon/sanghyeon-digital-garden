@@ -55,3 +55,24 @@ let arr = [1, 2, 3, 4, 5, 6, 7, 8 ,9];
 삽입과 삭제는 최대 힙의 방식과 같은 방식으로 진행한다.
 
 ![Pasted image 20231004193938.png|450](/img/user/Pasted%20image%2020231004193938.png)
+
+
+# 시간 복잡도
+| 동작             | Big-O     |
+| ---------------- | --------- |
+| 최대/최소값 찾기 | O(1)      |
+| 삽입             | O(log(n)) |
+| 삭제             | O(log(n)) |
+| 힙화 하기        | O(n)      |
+
+
+# 필수 문제
+- LeetCode
+	- [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+	- [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+
+
+# 추천 연습 문제
+- LeetCode
+	- [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+	- [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
