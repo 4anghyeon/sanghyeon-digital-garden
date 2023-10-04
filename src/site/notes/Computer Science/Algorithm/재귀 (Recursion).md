@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/algorithm/recursion/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/computer-science/algorithm/recursion/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ![Recursion thumbnail.png](/img/user/Computer%20Science/Algorithm/Recursion%20thumbnail.png)
