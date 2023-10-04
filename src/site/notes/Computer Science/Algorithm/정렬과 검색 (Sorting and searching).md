@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/algorithm/sorting-and-searching/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/computer-science/algorithm/sorting-and-searching/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 정렬은 순서대로 요소를 숫자순, 문자순, 오름차순, 내림차순 등으로 재배열 하는 것이다.
