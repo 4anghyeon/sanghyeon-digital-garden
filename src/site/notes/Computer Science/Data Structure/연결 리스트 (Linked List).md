@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structure/linked-list/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/computer-science/data-structure/linked-list/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ![Linked List Thumbnail.png](/img/user/Computer%20Science/Data%20Structure/Linked%20List%20Thumbnail.png)
