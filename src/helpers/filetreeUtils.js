@@ -105,6 +105,7 @@ function getFileTree(data) {
   const tree = {};
   (data.collections.note || []).forEach((note) => {
     const [meta, folders] = getPermalinkMeta(note);
+    console.log(folders);
     assignNested(tree, folders, { isNote: true, ...meta });
   });
   const fileTree = sortTree(tree);
