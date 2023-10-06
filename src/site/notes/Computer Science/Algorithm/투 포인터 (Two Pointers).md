@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/algorithm/two-pointers/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/computer-science/algorithm/two-pointers/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ![two pointers thumbnail.png](/img/user/Computer%20Science/Algorithm/two%20pointers%20thumbnail.png)
