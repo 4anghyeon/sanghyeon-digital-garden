@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structure/graph/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"tags":["자료구조"],"dg-hide":true,"permalink":"/computer-science/data-structure/graph/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ![graph thumbnail.png](/img/user/Computer%20Science/Data%20Structure/graph%20thumbnail.png)
