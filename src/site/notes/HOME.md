@@ -9,6 +9,8 @@
 ### RECENTLY
 | 카테고리             | 제목                                                                                                 | 생성일                 |
 | ---------------- | -------------------------------------------------------------------------------------------------- | ------------------- |
+| Language         | [[Language/HTML\|HTML]]                                                                         | 2023년 10월 06일 20:03 |
+| HTML             | [[Language/HTML/시맨틱 태그 (Semantic Tags)\|시맨틱 태그 (Semantic Tags)]]                                | 2023년 10월 06일 14:34 |
 | Etc              | [[Etc/Git\|Git]]                                                                                | 2023년 10월 06일 12:26 |
 | Computer Science | [[Computer Science/Algorithm\|Algorithm]]                                                     | 2023년 10월 06일 12:13 |
 | Computer Science | [[Computer Science/Data Structure\|Data Structure]]                                             | 2023년 10월 06일 10:41 |
@@ -17,8 +19,6 @@
 | Data Structure   | [[Computer Science/Data Structure/힙 (Heap)\|힙 (Heap)]]                                          | 2023년 10월 04일 17:30 |
 | Algorithm        | [[Computer Science/Algorithm/다익스트라 알고리즘(Dijkstra's algorithm\|다익스트라 알고리즘(Dijkstra's algorithm]] | 2023년 10월 04일 02:12 |
 | Data Structure   | [[Computer Science/Data Structure/그래프 (Graph)\|그래프 (Graph)]]                                    | 2023년 10월 04일 00:21 |
-| Git              | [[Etc/Git/02. commit, push\|02. commit, push]]                                                  | 2023년 10월 02일 21:15 |
-| Git              | [[Etc/Git/01. Git 기초\|01. Git 기초]]                                                              | 2023년 10월 02일 20:43 |
 
 { .block-language-dataview}
 
