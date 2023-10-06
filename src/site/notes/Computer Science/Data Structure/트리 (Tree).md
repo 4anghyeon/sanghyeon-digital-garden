@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structure/tree/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"tags":["자료구조"],"dg-hide":true,"permalink":"/computer-science/data-structure/tree/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ![tree thumbnail.png](/img/user/Computer%20Science/Data%20Structure/tree%20thumbnail.png)
