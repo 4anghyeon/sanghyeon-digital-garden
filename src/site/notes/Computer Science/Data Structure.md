@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"sticker":"emoji//25b6-fe0f","permalink":"/computer-science/data-structure/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"sticker":"emoji//1f4a5","permalink":"/computer-science/data-structure/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 | 카테고리           | 제목                                                                                | 생성일                 |
