@@ -94,9 +94,10 @@ function assignNested(obj, keyPath, value) {
   for (var i = 0; i < lastKeyIndex; ++i) {
     key = keyPath[i];
     if (!(key in obj)) {
-      obj[key] = { isFolder: true };
+      obj[key] = { isFolder: true, isEmpty: true };
     }
     obj = obj[key];
+    if (!value.hide) obj.isEmpty = false;
   }
   obj[keyPath[lastKeyIndex]] = value;
 }
@@ -105,7 +106,6 @@ function getFileTree(data) {
   const tree = {};
   (data.collections.note || []).forEach((note) => {
     const [meta, folders] = getPermalinkMeta(note);
-    console.log(folders);
     assignNested(tree, folders, { isNote: true, ...meta });
   });
   const fileTree = sortTree(tree);
