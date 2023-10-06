@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structure/heap/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-hide":true,"permalink":"/computer-science/data-structure/heap/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ![heap thumbnail.png](/img/user/Computer%20Science/Data%20Structure/heap%20thumbnail.png)
-힙은 [[Computer Science/Data Structure/트리 (Tree)\|트리 (Tree)]]기반의 자료 구조이며, [[Computer Science/Data Structure/트리 (Tree)#이진 트리 (Binary Tree)\|완전 이진 트리]]의 일종이다. 수의 집합에서 가장 큰 수와, 가장 작은 수를 빠르게 찾기 위해 만들어진 자료구조다.
+힙은 [[Computer Science/Data Structure/트리 (Tree)\|트리 (Tree)]]기반의 자료 구조이며, [[Computer Science/Data Structure/트리 (Tree)#이진 트리 (Binary Tree)\|완전 이진 트리]]의 일종이다. 수의 집합에서 가장 큰 수와, 가장 작은 수를 빠르게 찾기 위해 만들어진 자료구조다. .
 
 예를 들어 다음과 같은 배열이 있다고 해보자.
 ```js
