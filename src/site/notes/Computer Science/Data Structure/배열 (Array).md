@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["자료구조"],"permalink":"/computer-science/data-structure/array/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"tags":["자료구조"],"dg-hide":true,"permalink":"/computer-science/data-structure/array/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ![array thumbnail.png](/img/user/Computer%20Science/Data%20Structure/array%20thumbnail.png)
