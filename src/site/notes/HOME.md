@@ -9,6 +9,7 @@
 ### RECENTLY
 | 카테고리             | 제목                                                                                                 | 생성일                 |
 | ---------------- | -------------------------------------------------------------------------------------------------- | ------------------- |
+| Computer Science | [[Computer Science/Algorithm\|Algorithm]]                                                     | 2023년 10월 06일 12:13 |
 | Computer Science | [[Computer Science/Data Structure\|Data Structure]]                                             | 2023년 10월 06일 10:41 |
 | Data Structure   | [[Computer Science/Data Structure/트라이 (Trie)\|트라이 (Trie)]]                                      | 2023년 10월 05일 09:44 |
 | Git              | [[Etc/Git/03. clone, pull\|03. clone, pull]]                                                    | 2023년 10월 04일 20:22 |
@@ -18,7 +19,6 @@
 | Git              | [[Etc/Git/02. commit, push\|02. commit, push]]                                                  | 2023년 10월 02일 21:15 |
 | Git              | [[Etc/Git/01. Git 기초\|01. Git 기초]]                                                              | 2023년 10월 02일 20:43 |
 | Data Structure   | [[Computer Science/Data Structure/트리 (Tree)\|트리 (Tree)]]                                        | 2023년 10월 02일 18:18 |
-| Algorithm        | [[Computer Science/Algorithm/DFS (Depth First Search)\|DFS (Depth First Search)]]               | 2023년 09월 30일 18:04 |
 
 { .block-language-dataview}
 
