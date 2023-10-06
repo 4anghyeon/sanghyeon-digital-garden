@@ -1,5 +1,5 @@
 ---
-{"tags":["자료구조"],"dg-publish":true,"permalink":"/computer-science/data-structure/hash-table/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"tags":["자료구조"],"dg-publish":true,"dg-hide":true,"permalink":"/computer-science/data-structure/hash-table/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ![hashtable thumbnail.png](/img/user/Computer%20Science/Data%20Structure/hashtable%20thumbnail.png)
