@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":false,"tags":["자료구조"],"permalink":"/computer-science/data-structure/trie/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-hide":true,"tags":["자료구조"],"permalink":"/computer-science/data-structure/trie/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ![trie tuhmbnail.png](/img/user/Computer%20Science/Data%20Structure/trie%20tuhmbnail.png)
