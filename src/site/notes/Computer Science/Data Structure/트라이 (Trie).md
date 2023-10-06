@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structure/trie/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-hide":true,"tags":["자료구조"],"permalink":"/computer-science/data-structure/trie/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ![trie tuhmbnail.png](/img/user/Computer%20Science/Data%20Structure/trie%20tuhmbnail.png)
@@ -40,3 +40,8 @@
 	- [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design)
 	- [Word Break](https://leetcode.com/problems/word-break)
 	- [Word Search II](https://leetcode.com/problems/word-search-ii/)
+
+
+---
+
+#자료구조 
