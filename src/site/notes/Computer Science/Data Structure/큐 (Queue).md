@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structure/queue/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"tags":["자료구조"],"dg-hide":true,"permalink":"/computer-science/data-structure/queue/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ![queue thumbnail.png](/img/user/Computer%20Science/Data%20Structure/queue%20thumbnail.png)
