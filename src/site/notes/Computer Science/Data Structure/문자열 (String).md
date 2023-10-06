@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["자료구조"],"permalink":"/computer-science/data-structure/string/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"tags":["자료구조"],"dg-hide":true,"permalink":"/computer-science/data-structure/string/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ![string thumbnail.png](/img/user/Computer%20Science/Data%20Structure/string%20thumbnail.png)
