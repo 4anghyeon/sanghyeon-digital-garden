@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/git/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"sticker":"emoji//1f4a5","permalink":"/etc/git/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 | 카테고리 | 제목                                                | 생성일                 |
