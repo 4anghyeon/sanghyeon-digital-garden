@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-hide":true,"tags":["HTML"],"permalink":"/language/html/semantic-tags/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
+![semantic thumb.png](/img/user/Language/HTML/semantic%20thumb.png)
 컴퓨터 과학에서 시맨틱(Semantic)은 의미론이라는 단어로 의미론은 프로그래밍 언어에서 문장,명령등에 계산적인 **의미**를 할당한다.
 
 시맨틱은 다음과 같은 역할을 수행한다.
