@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/language/html/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"sticker":"emoji//1f4a5","permalink":"/language/html/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 | 카테고리 | 제목                                                                  | 생성일                 |
