@@ -16,7 +16,7 @@ body {
     }
 
     .content h1:nth-child(n+3) {
-        margin-top: 40px;
+        margin-top: 40px !important;
     }
 
     img[alt*="thumb"] {
