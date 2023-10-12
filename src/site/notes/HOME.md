@@ -1,5 +1,5 @@
 ---
-{"sticker":"lucide//home","dg-publish":true,"dg-home":true,"dg-show-local-graph":null,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"sticker":"lucide//home","dg-publish":true,"dg-home":true,"dg-show-local-graph":null,"dg-hide":true,"permalink":"/home/","hide":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # sanghyeon's 개발 공부 일지
@@ -9,6 +9,8 @@
 ### RECENTLY
 | 카테고리             | 제목                                                                  | 생성일                 |
 | ---------------- | ------------------------------------------------------------------- | ------------------- |
+| JavaScript       | [[Language/JavaScript/JavaScript의 탄생과 역사\|JavaScript의 탄생과 역사]]   | 2023년 10월 12일 12:59 |
+| Language         | [[Language/JavaScript\|JavaScript]]                              | 2023년 10월 12일 12:52 |
 | Git              | [[Etc/Git/07. git flow\|07. git flow]]                           | 2023년 10월 11일 16:34 |
 | Git              | [[Etc/Git/06. rebase\|06. rebase]]                               | 2023년 10월 11일 12:49 |
 | Git              | [[Etc/Git/05. stash\|05. stash]]                                 | 2023년 10월 10일 14:32 |
@@ -17,8 +19,6 @@
 | HTML             | [[Language/HTML/시맨틱 태그 (Semantic Tags)\|시맨틱 태그 (Semantic Tags)]] | 2023년 10월 06일 14:34 |
 | Etc              | [[Etc/Git\|Git]]                                                 | 2023년 10월 06일 12:26 |
 | Computer Science | [[Computer Science/Algorithm\|Algorithm]]                      | 2023년 10월 06일 12:13 |
-| Computer Science | [[Computer Science/Data Structure\|Data Structure]]              | 2023년 10월 06일 10:41 |
-| Data Structure   | [[Computer Science/Data Structure/트라이 (Trie)\|트라이 (Trie)]]       | 2023년 10월 05일 09:44 |
 
 { .block-language-dataview}
 
