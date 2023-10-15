@@ -32,7 +32,7 @@ body {
         font-size: 0.75rem !important;
     }
 
-    .cm-s-obsidian pre.HyperMD-codeblock, :is(.markdown-preview-view,.markdown-rendered) code, .markdown-rendered code {
+    :is(.markdown-preview-view,.markdown-rendered) code, .markdown-rendered code {
         font-size: 0.75rem !important;
     }
     
