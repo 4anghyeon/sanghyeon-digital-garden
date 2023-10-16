@@ -4,6 +4,8 @@
 
 | 카테고리       | 제목                                                                                    | 생성일                 |
 | ---------- | ------------------------------------------------------------------------------------- | ------------------- |
+| JavaScript | [[Language/JavaScript/제네레이터 (Generator)\|제네레이터 (Generator)]]                       | 2023년 10월 16일 20:07 |
+| JavaScript | [[Language/JavaScript/async, await\|async, await]]                                 | 2023년 10월 16일 20:04 |
 | JavaScript | [[Language/JavaScript/프로미스 (Promise)\|프로미스 (Promise)]]                             | 2023년 10월 16일 17:45 |
 | JavaScript | [[Language/JavaScript/this 키워드\|this 키워드]]                                         | 2023년 10월 16일 14:56 |
 | JavaScript | [[Language/JavaScript/렉시컬 환경 (Lexcial Environment)\|렉시컬 환경 (Lexcial Environment)]] | 2023년 10월 16일 11:01 |
