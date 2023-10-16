@@ -9,6 +9,7 @@
 ### RECENTLY
 | 카테고리       | 제목                                                                                    | 생성일                 |
 | ---------- | ------------------------------------------------------------------------------------- | ------------------- |
+| JavaScript | [[Language/JavaScript/this 키워드\|this 키워드]]                                         | 2023년 10월 16일 14:56 |
 | JavaScript | [[Language/JavaScript/렉시컬 환경 (Lexcial Environment)\|렉시컬 환경 (Lexcial Environment)]] | 2023년 10월 16일 11:01 |
 | JavaScript | [[Language/JavaScript/실행 컨텍스트\|실행 컨텍스트]]                                           | 2023년 10월 15일 22:29 |
 | JavaScript | [[Language/JavaScript/원시 값과 참조 값의 비교\|원시 값과 참조 값의 비교]]                             | 2023년 10월 13일 19:19 |
@@ -18,7 +19,6 @@
 | JavaScript | [[Language/JavaScript/함수\|함수]]                                                     | 2023년 10월 13일 11:57 |
 | JavaScript | [[Language/JavaScript/JavaScript의 탄생과 역사\|JavaScript의 탄생과 역사]]                     | 2023년 10월 12일 12:59 |
 | Language   | [[Language/JavaScript\|JavaScript]]                                                | 2023년 10월 12일 12:52 |
-| Git        | [[Etc/Git/07. git flow\|07. git flow]]                                             | 2023년 10월 11일 16:34 |
 
 { .block-language-dataview}
 
