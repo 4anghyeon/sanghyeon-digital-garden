@@ -48,7 +48,7 @@ foo(20); // 42
 
 ### 전역 렉시컬 환경 생성
 전역 LE를 생성하고 전역 실행 컨텍스트에 바인딩한다. 
-![Pasted image 20231016112128.png](/img/user/Pasted%20image%2020231016112128.png)
+![Pasted image 20231016112128.png](/img/user/Language/JavaScript/Pasted%20image%2020231016112128.png)
 
 #### 전역 환경 레코드 생성
 전역 환경 레코드에는 전역 변수를 관리하는 전역 스코프, 전역 객체의 빌트인 전역 프로퍼티와 빌트인 전역 함수, 표준 빌트인 객체를 제공한다.
@@ -66,28 +66,28 @@ ES6 이전에는 모든 전역 변수가 전역 객체의 프로퍼티가 됐기
 
 바로 이것이 `var` 키워드로 선언된 전역 변수와 함수 선언문으로 정의된 전역 함수가 전역 객체를 가리키는 식별자(`window`) 없이 전역 객체의 프로퍼티를 참조할 수 있는 메커니즘이다. (`window.alert` → `alert`)
 
-![Pasted image 20231016112742.png](/img/user/Pasted%20image%2020231016112742.png)
+![Pasted image 20231016112742.png](/img/user/Language/JavaScript/Pasted%20image%2020231016112742.png)
 
 `var` 키워드로 선언한 변수는 코드 평가 단계에서 초기화까지 진행됐기 때문에 실행 단계에서 변수 선언문 이전에도 참조할 수 있다. <mark style='background:#f7b731'>이것이 변수 호이스팅이 발생하는 원인이다.</mark>
 
 함수 선언문으로 정의한 함수가 평가되면 함수 이름을 키로 `BindingObject` 를 통해 함수 객체를 즉시 할당한다. 이것이 변수 호이스팅과 함수 호이스팅의 차이다. 함수 선언문으로 정의한 함수는 런타임 환경에서 함수 선언문에 도달하기 전에 호출할 수 있다.
 
-1. 선언적 환경 레코드 생성
+2. 선언적 환경 레코드 생성
 `let`, `const` 키워드로 선언한 전역변수는 선언적 환경 레코드(Declarative Environment Record)에 등록되고 관리된다.
 따라서 변수 `y` 는 `const` 키워드로 선언한 변수이므로 전역 객체의 프로퍼티가 되지 않기 때문에 window.y 로 참조할 수 없다. 또한 `const` 키워드로 선언한 변수는 “선언 단계" 와 “초기화 단계" 가 분리되어 진행한다. 따라서 실행 흐름이 변수 선언문에 도달하기 전까지 일시적 사각지대에 빠지게 된다.
 
-![Pasted image 20231016113204.png](/img/user/Pasted%20image%2020231016113204.png)
+![Pasted image 20231016113204.png](/img/user/Language/JavaScript/Pasted%20image%2020231016113204.png)
 
 
 #### this 바인딩
 `GlobalEnvironmentRecord` 의 GlobalThisValue 내부 슬롯에 `this`가 바인딩된다. 일반적으로 전역 코드에서 this 는 전역 객체를 가리키므로 GlobalThisValue 내부 슬롯에는 전역 객체가 바인딩 된다.
-![Pasted image 20231016114516.png](/img/user/Pasted%20image%2020231016114516.png)
+![Pasted image 20231016114516.png](/img/user/Language/JavaScript/Pasted%20image%2020231016114516.png)
 
 #### 외부 렉시컬 환경에 대한 참조 결정
 `OuterLexicalEnvironmentReference` 는 현재 평가 중인 소스코드(지금은 전역 코드)를 포함하는 외부 소스코드의 렉시컬 환경, 즉 상위 스코프를 가리킨다. 이를 통해 단방향 Linked List인 스코프 체인을 구현한다.
 
 전역 코드를 포함하는 소스코드는 없으므로 전역 렉시컬 환경의 `OuterLexicalEnvironmentReference` 에 `null` 이 할당된다.
-![Pasted image 20231016114625.png](/img/user/Pasted%20image%2020231016114625.png)
+![Pasted image 20231016114625.png](/img/user/Language/JavaScript/Pasted%20image%2020231016114625.png)
 
 
 ## 전역 코드 실행
@@ -109,26 +109,26 @@ ES6 이전에는 모든 전역 변수가 전역 객체의 프로퍼티가 됐기
 ### foo 함수 실행 컨텍스트 생성
 먼저 `foo` 함수 실행 컨텍스트를 생성한다. 생성된 함수 실행 컨텍스트는 함수 렉시컬 환경이 완성된 다음 실행 컨텍스트 스택에 푸시된다.
 
-![Pasted image 20231016114713.png](/img/user/Pasted%20image%2020231016114713.png)
+![Pasted image 20231016114713.png](/img/user/Language/JavaScript/Pasted%20image%2020231016114713.png)
 
 
 ### foo 함수 렉시컬 환경 생성
 `foo` 함수 렉시컬 환경을 생성하고 `foo` 함수 실행 컨텍스트에 바인딩한다.
 
-![Pasted image 20231016114827.png](/img/user/Pasted%20image%2020231016114827.png)
+![Pasted image 20231016114827.png](/img/user/Language/JavaScript/Pasted%20image%2020231016114827.png)
 
 #### 함수 환경 레코드 생성
 함수 환경 레코드는 매개변수, `arguments` 객체, 함수 내부에서 선언한 지역 변수와 중첩 함수(예제에선 `bar`)를 등록하고 관리한다.
-![Pasted image 20231016115146.png](/img/user/Pasted%20image%2020231016115146.png)
+![Pasted image 20231016115146.png](/img/user/Language/JavaScript/Pasted%20image%2020231016115146.png)
 
 #### this 바인딩
 `foo` 함수 환경 레코드의 내부 슬롯에 `this`가 바인딩 된다. `foo` 함수는 일반 함수로 호출되었으므로 `this`는 전역 객체를 가리킨다.
-![Pasted image 20231016115315.png](/img/user/Pasted%20image%2020231016115315.png)
+![Pasted image 20231016115315.png](/img/user/Language/JavaScript/Pasted%20image%2020231016115315.png)
 
 #### 외부 렉시컬 환경에 대한 참조 결정
 외부 렉시컬 환경에 대한 참조에 `foo` 함수 정의가 평가된 시점에 실행 중인 실행 컨텍스트(예제에선 전역 실행 컨텍스트)의 렉시컬 환경의 참조가 할당된다.
 
-![Pasted image 20231016115458.png](/img/user/Pasted%20image%2020231016115458.png)
+![Pasted image 20231016115458.png](/img/user/Language/JavaScript/Pasted%20image%2020231016115458.png)
 
 <mark style='background:#f7b731'>자바스크립트는 렉시컬 스코프(정적 스코프)를 따르기 때문에 함수를 어디서 호출했는지가 아니라 어디에 정의했는지에 따라 상위 스코프를 결정한다.</mark>
 
@@ -140,13 +140,13 @@ ES6 이전에는 모든 전역 변수가 전역 객체의 프로퍼티가 됐기
 이때 **식별자 결정을 위해 실행 중인 실행 컨텍스트(foo 실행 컨텍스트)의 렉시컬 환경에서 식별자를 검색하기 시작한다.**
 현재 실행중인 실행 컨텍스트의 렉시컬 환경에서 식별자를 검색할 수 없으면`OuterLexicalEnvironmentReference` 가 가리키는 렉시컬 환경, 상위 스코프로 이동하여 식별자를 검색한다.
 
-![Pasted image 20231016115705.png](/img/user/Pasted%20image%2020231016115705.png)
+![Pasted image 20231016115705.png](/img/user/Language/JavaScript/Pasted%20image%2020231016115705.png)
 
 ## bar 함수 코드 평가
 `bar` 함수가 호출되면 `bar` 함수 내부로 코드의 제어권이 이동한다. 그리고 `bar` 함수 코드를 평가하기 시작한다.
 
 과정은 `foo` 함수 코드 평가와 같다.
-![Pasted image 20231016120129.png](/img/user/Pasted%20image%2020231016120129.png)
+![Pasted image 20231016120129.png](/img/user/Language/JavaScript/Pasted%20image%2020231016120129.png)
 
 ## bar 함수 코드 실행
 `bar` 함수의 소스코드가 실행되며 매개변수와 지역변수에 값이 할당된다.
@@ -164,7 +164,7 @@ ES6 이전에는 모든 전역 변수가 전역 객체의 프로퍼티가 됐기
 ## bar 함수 코드 실행 종료
 `console.log` 메서드가 호출되고 종료하면 `bar` 함수에서 더 이상 실행할 코드가 없으므로 `bar` 함수의 실행이 종료된다. 이때 실행 컨텍스트에서 `bar` 함수 실행 컨텍스트가 제거되고, `foo` 실행 컨텍스트가 다시 실행 중인 실행 컨텍스트가 된다.
 
-![Pasted image 20231016120530.png](/img/user/Pasted%20image%2020231016120530.png)
+![Pasted image 20231016120530.png](/img/user/Language/JavaScript/Pasted%20image%2020231016120530.png)
 
 실행 컨텍스트 스택에서 `bar` 함수 실행 컨텍스트가 제거되었다고 해서 `bar` <mark style='background:#f7b731'>함수 렉시컬 환경까지 즉시 소멸하는 것은 아니다. 렉시컬 환경은 독립적인 객체이고 객체를 포함한 모든 값은 누군가에 의해 참조되지 않을 때 가비지 컬렉터에 의해 메모리가 해제된다.</mark>
 
