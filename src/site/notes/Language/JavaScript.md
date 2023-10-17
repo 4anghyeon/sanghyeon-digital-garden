@@ -4,6 +4,7 @@
 
 | 카테고리       | 제목                                                                                    | 생성일                 |
 | ---------- | ------------------------------------------------------------------------------------- | ------------------- |
+| JavaScript | [[Language/JavaScript/클로저 (Closure)\|클로저 (Closure)]]                               | 2023년 10월 17일 19:36 |
 | JavaScript | [[Language/JavaScript/제네레이터 (Generator)\|제네레이터 (Generator)]]                       | 2023년 10월 16일 20:07 |
 | JavaScript | [[Language/JavaScript/async, await\|async, await]]                                 | 2023년 10월 16일 20:04 |
 | JavaScript | [[Language/JavaScript/프로미스 (Promise)\|프로미스 (Promise)]]                             | 2023년 10월 16일 17:45 |
