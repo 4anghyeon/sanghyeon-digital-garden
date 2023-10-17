@@ -92,7 +92,7 @@ bar();
 ```
 위의 코드를 개발자 도구에서 실행해보자.
 
-![Pasted image 20231017200536.png](/img/user/Pasted%20image%2020231017200536.png)
+![Pasted image 20231017200536.png](/img/user/Language/JavaScript/Pasted%20image%2020231017200536.png)
 `bar`함수는 `foo`보다 더 오래 유지되지만 상위 스코프의 어떤 식별자도 참조하지 않는다. 따라서 `bar`는 클로저라고 할 수 없다.
 
 ### 예제 2
@@ -113,7 +113,7 @@ function foo() {
 foo();
 ```
 
-![Pasted image 20231017200949.png](/img/user/Pasted%20image%2020231017200949.png)
+![Pasted image 20231017200949.png](/img/user/Language/JavaScript/Pasted%20image%2020231017200949.png)
 위 예제는 중첩 함수 `bar` 가 상위 스코프의 식별자를 참조하고 있으므로 클로저다. 하지만 외부로 `bar` 함수가 반환되지 않으므로 외부 함수보다 일찍 소멸하기 때문에 클로저의 본질에 부합하지 않는다.
 
 ### 예제 3
@@ -135,7 +135,7 @@ const bar = foo();
 bar();
 ```
 
-![Pasted image 20231017201220.png](/img/user/Pasted%20image%2020231017201220.png)
+![Pasted image 20231017201220.png](/img/user/Language/JavaScript/Pasted%20image%2020231017201220.png)
 
 위 예제의 중첩 함수 `bar` 는 상위 스코프의 식별자를 참조하고 있으므로 클로저다. 그리고 외부 함수의 외부로 반환되어 외부 함수보다 더 오래 살아남는다.
 
