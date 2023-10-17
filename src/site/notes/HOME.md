@@ -9,6 +9,7 @@
 ### RECENTLY
 | 카테고리       | 제목                                                                                    | 생성일                 |
 | ---------- | ------------------------------------------------------------------------------------- | ------------------- |
+| JavaScript | [[Language/JavaScript/클로저 (Closure)\|클로저 (Closure)]]                               | 2023년 10월 17일 19:36 |
 | JavaScript | [[Language/JavaScript/제네레이터 (Generator)\|제네레이터 (Generator)]]                       | 2023년 10월 16일 20:07 |
 | JavaScript | [[Language/JavaScript/async, await\|async, await]]                                 | 2023년 10월 16일 20:04 |
 | JavaScript | [[Language/JavaScript/프로미스 (Promise)\|프로미스 (Promise)]]                             | 2023년 10월 16일 17:45 |
@@ -18,7 +19,6 @@
 | JavaScript | [[Language/JavaScript/원시 값과 참조 값의 비교\|원시 값과 참조 값의 비교]]                             | 2023년 10월 13일 19:19 |
 | JavaScript | [[Language/JavaScript/데이터 타입\|데이터 타입]]                                             | 2023년 10월 13일 17:47 |
 | JavaScript | [[Language/JavaScript/함수와  일급 객체\|함수와  일급 객체]]                                     | 2023년 10월 13일 15:15 |
-| JavaScript | [[Language/JavaScript/값, 리터럴, 표현식, 문\|값, 리터럴, 표현식, 문]]                             | 2023년 10월 13일 12:23 |
 
 { .block-language-dataview}
 
