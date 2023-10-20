@@ -4,6 +4,8 @@
 
 | 카테고리       | 제목                                                                                    | 생성일                 |
 | ---------- | ------------------------------------------------------------------------------------- | ------------------- |
+| Web        | [[Computer Science/Web/브라우저 렌더링 과정\|브라우저 렌더링 과정]]                                  | 2023년 10월 20일 10:09 |
+| JavaScript | [[Language/JavaScript/클래스 (Class)\|클래스 (Class)]]                                   | 2023년 10월 17일 21:05 |
 | JavaScript | [[Language/JavaScript/클로저 (Closure)\|클로저 (Closure)]]                               | 2023년 10월 17일 19:36 |
 | JavaScript | [[Language/JavaScript/제네레이터 (Generator)\|제네레이터 (Generator)]]                       | 2023년 10월 16일 20:07 |
 | JavaScript | [[Language/JavaScript/async, await\|async, await]]                                 | 2023년 10월 16일 20:04 |
