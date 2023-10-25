@@ -28,7 +28,7 @@
 만약 주어진 시퀀스가 정렬되어있다면 이진 탐색이 가장 먼저 해봐야 할 것이다.
 
 ### 제한된 범위의 인풋 정렬
-[[Computer Science/Algorithm/계수 정렬 (Counting Sort)\|계수 정렬]]은 미리 값의 범위를 알고 있을 경우 사용할 수 있다.
+[[Computer Science/Algorithm/카운팅 정렬, 계수 정렬 (Counting Sort)\|계수 정렬]]은 미리 값의 범위를 알고 있을 경우 사용할 수 있다.
 
 
 ## 필수 문제
