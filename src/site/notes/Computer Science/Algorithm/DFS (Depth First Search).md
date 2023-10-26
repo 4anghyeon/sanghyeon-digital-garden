@@ -8,7 +8,7 @@
 ![Depth First Search.gif|400](/img/user/Computer%20Science/Data%20Structure/Depth%20First%20Search.gif)
 DFS는 [[Computer Science/Data Structure/그래프 (Graph)\|그래프 (Graph)]] 전체를 탐색하는 방법 중 하나로, 현재 노드와 연결된 노드들을 하나씩 갈 수 있는지 검사후, 특정 노드로 갈 수 있다면 그 노드에서 재귀 함수를 통해 더 이상 방문할 노드가 없을 때 까지 아래로 내려가며 같은 행위를 반복한다. 
 
-DFS는 택이나 재귀 함수를 통해 구현한다. (보통 재귀 함수를 통해 구현)
+DFS는 스택이나 재귀 함수를 통해 구현한다. (보통 재귀 함수를 통해 구현)
 재귀 함수를 사용할 경우 무한루프에 빠지는 것을 막기 위해 반드시 방문한 노드를 표시한다.
 
 DFS는 리프 노드에 도달 후 다시 부모 노드로 돌아가야 하는데, 이 과정을 backtracking이라 한다.
