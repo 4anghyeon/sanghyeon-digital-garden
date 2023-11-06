@@ -7,18 +7,18 @@
 안녕하세요 이상현입니다.
 
 ### RECENTLY
-| 카테고리             | 제목                                                                                                   | 생성일                 |
-| ---------------- | ---------------------------------------------------------------------------------------------------- | ------------------- |
-| React            | [[FrontEnd/React/Drawing 2023-11-06 11.37.40.excalidraw\|Drawing 2023-11-06 11.37.40.excalidraw]] | 2023년 11월 06일 11:37 |
-| React            | [[FrontEnd/React/State Lifting\|State Lifting]]                                                   | 2023년 11월 06일 11:36 |
-| Etc              | [[Etc/npm과 npx 그리고 yarn\|npm과 npx 그리고 yarn]]                                                      | 2023년 11월 01일 11:20 |
-| React            | [[FrontEnd/React/Props와 State\|Props와 State]]                                                     | 2023년 10월 31일 20:23 |
-| FrontEnd         | [[FrontEnd/React\|React]]                                                                         | 2023년 10월 31일 20:23 |
-| JavaScript       | [[Language/JavaScript/모듈 (Module)\|모듈 (Module)]]                                                  | 2023년 10월 24일 10:56 |
-| Web              | [[Computer Science/Web/브라우저 렌더링 과정\|브라우저 렌더링 과정]]                                                 | 2023년 10월 20일 10:09 |
-| Computer Science | [[Computer Science/Web\|Web]]                                                                     | 2023년 10월 20일 10:08 |
-| Git              | [[Etc/Git/08. git reset\|08. git reset]]                                                          | 2023년 10월 19일 19:33 |
-| JavaScript       | [[Language/JavaScript/클래스 (Class)\|클래스 (Class)]]                                                  | 2023년 10월 17일 21:05 |
+| 카테고리             | 제목                                                      | 생성일                 |
+| ---------------- | ------------------------------------------------------- | ------------------- |
+| React            | [[FrontEnd/React/State Lifting\|State Lifting]]      | 2023년 11월 06일 11:36 |
+| Etc              | [[Etc/npm과 npx 그리고 yarn\|npm과 npx 그리고 yarn]]         | 2023년 11월 01일 11:20 |
+| React            | [[FrontEnd/React/Props와 State\|Props와 State]]        | 2023년 10월 31일 20:23 |
+| FrontEnd         | [[FrontEnd/React\|React]]                            | 2023년 10월 31일 20:23 |
+| JavaScript       | [[Language/JavaScript/모듈 (Module)\|모듈 (Module)]]     | 2023년 10월 24일 10:56 |
+| Web              | [[Computer Science/Web/브라우저 렌더링 과정\|브라우저 렌더링 과정]]    | 2023년 10월 20일 10:09 |
+| Computer Science | [[Computer Science/Web\|Web]]                        | 2023년 10월 20일 10:08 |
+| Git              | [[Etc/Git/08. git reset\|08. git reset]]             | 2023년 10월 19일 19:33 |
+| JavaScript       | [[Language/JavaScript/클래스 (Class)\|클래스 (Class)]]     | 2023년 10월 17일 21:05 |
+| JavaScript       | [[Language/JavaScript/클로저 (Closure)\|클로저 (Closure)]] | 2023년 10월 17일 19:36 |
 
 { .block-language-dataview}
 
