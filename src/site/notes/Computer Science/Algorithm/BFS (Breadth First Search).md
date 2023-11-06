@@ -5,8 +5,8 @@
 
 # 너비 우선 탐색  (BFS)
 ![BFS Algorithm (1)..gif|400](/img/user/Computer%20Science/Algorithm/BFS%20Algorithm%20(1)..gif)
-DFS는 [[Computer Science/Data Structure/그래프 (Graph)\|그래프 (Graph)]] 전체를 탐색하는 방법 중 하나로, 시작 정점에서 부터 정점에 인접한 모든 정점들을 우선 방문하는 방법이다.
-더 이상 방문하지 않은 정점이 없을 때까지 방문하지 않은 모든 정점들에 대해 DFS를 적용한다.
+BFS는 [[Computer Science/Data Structure/그래프 (Graph)\|그래프 (Graph)]] 전체를 탐색하는 방법 중 하나로, 시작 정점에서 부터 정점에 인접한 모든 정점들을 우선 방문하는 방법이다.
+더 이상 방문하지 않은 정점이 없을 때까지 방문하지 않은 모든 정점들에 대해 BFS를 적용한다.
 
 BFS는 [[Computer Science/Data Structure/큐 (Queue)\|큐 (Queue)]]를 이용하여 구현한다.
 
