@@ -2,7 +2,6 @@
 {"tags":["React"],"dg-publish":true,"dg-hide":true,"permalink":"/front-end/react/use-effect/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-
 # useEffect
 
 `useEffect`는 컴포넌트가 렌더링 될 때 side effect를 실행하도록 도와주는 Hook이다. side effect는 컴포넌트가 렌더링 된 후 비동기적으로 처리되어야 하는 작업들을 말한다. 이 Hook 함수를 통해서 함수형 컴포넌트에서 생명주기 메서드를 사용할 수 있게 된다.
