@@ -1,5 +1,5 @@
 ---
-{"tags":["React"],"dg-hide":true,"dg-publish":true,"permalink":"/front-end/react/context-api/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
+{"tags":["React"],"dg-publish":true,"dg-hide":true,"permalink":"/front-end/react/context-api/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Props의 문제점 (Prop Drilling)
