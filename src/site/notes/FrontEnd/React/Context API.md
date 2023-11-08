@@ -9,12 +9,12 @@
 
 예를 들어, 접점이 없는 두 컴포넌트가 `state`를 전달하기 위해서는 두 컴포넌트가 공통으로 가지는 부모 컴포넌트까지 올라가야 한다.
 
-![Pasted image 20231108115631.png](/img/user/FrontEnd/React/Pasted%20image%2020231108115631.png)
+![propdrilling.png](/img/user/FrontEnd/React/propdrilling.png)
 
 즉, 깊이가 깊어질수록 `props`가 어느 컴포넌트에서 왔는지 파악하기 힘들어지고, 관리와 오류 대응이 늦어진다.
 # Context API
 
-![Pasted image 20231108122811.png](/img/user/FrontEnd/React/Pasted%20image%2020231108122811.png)
+![propwithcontext.png](/img/user/FrontEnd/React/propwithcontext.png)
 
 이러한 점을 보완하기 위해 등장한 것이 Context API다. `useContext` Hook을 통해 쉽게 전역 데이터를 관리할 수 있다.
 
