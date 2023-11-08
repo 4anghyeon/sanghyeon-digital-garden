@@ -5,7 +5,7 @@
 # Props의 문제점 (Prop Drilling)
 리액트에서는 일반적으로 위에서 아래, 즉 부모에서 자식으로 props를 통해 데이터를 전달한다.
 
-그러나 앱이 커지고, 컴포넌트가 복잡해질 수록 전달해야 하는 props의 깊이는 더 깊어지고, 많은 컴포넌트를 거쳐야 데이터가 전달될 수 있다.
+그러나 앱이 커지고, 컴포넌트가 복잡해질 수록 전달해야 하는 props의 깊이는 더 깊어지고, 많은 컴포넌트를 거쳐야 데이터가 전달될 수 있다. ([[FrontEnd/React/Props와 State#Props Drilling\|Prop Drilling]])
 
 예를 들어, 접점이 없는 두 컴포넌트가 `state`를 전달하기 위해서는 두 컴포넌트가 공통으로 가지는 부모 컴포넌트까지 올라가야 한다.
 
@@ -35,30 +35,3 @@ const AuthContext = React.createContext({
 });
 ```
 
-## useContext
-Context를 사용할 컴포넌트에서 `useContext` hook을 이용한다.
-```jsx
-const Login = () => {
-	const ctx = useContext(AuthContext);
-	// ...
-}
-```
-
-`ctx` 변수에서 `props`가 아닌 Context를 통해 외부에서 선언된 값을 읽을 수 있다. 그러나 아직까지는 위에서 지정한 기본값 밖에 읽지 못한다.
-
-## Provider
-Context에 값을 동적으로 할당하여 제공하기 위해서는 Provider로 감싸줘야 한다.
-```jsx
-<AuthContext.Provider
-      value={{
-        isLoggedIn: isLoggedIn,
-        onLogin: loginHandler,
-        onLogout: logoutHandler,
-      }}
-    >
-      <Login />
-</AuthContext.Provider>
-```
-
-> **주의 사항!**
-> useContext를 사용할 때, Provider에서 제공한 value가 달라진다면 useContext를 사용하고 있는 모든 컴포넌트가 리렌더링 된다. 따라서 이 부분을 항상 염두하고 사용 하자.
