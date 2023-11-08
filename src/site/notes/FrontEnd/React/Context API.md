@@ -46,3 +46,16 @@ const Login = () => {
 
 `ctx` 변수에서 `props`가 아닌 Context를 통해 외부에서 선언된 값을 읽을 수 있다. 그러나 아직까지는 위에서 지정한 기본값 밖에 읽지 못한다.
 
+## Provider
+Context에 값을 동적으로 할당하여 제공하기 위해서는 Provider로 감싸줘야 한다.
+```jsx
+<AuthContext.Provider
+      value={{
+        isLoggedIn: isLoggedIn,
+        onLogin: loginHandler,
+        onLogout: logoutHandler,
+      }}
+    >
+      <Login />
+</AuthContext.Provider>
+```
