@@ -1,5 +1,5 @@
 ---
-{"sticker":"lucide//home","dg-publish":true,"dg-home":true,"dg-show-local-graph":null,"dg-hide":true,"permalink":"/home/","hide":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"sticker":"lucide//home","dg-publish":true,"dg-home":true,"dg-show-local-graph":false,"dg-hide":true,"dg-show-toc":false,"permalink":"/home/","hide":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # sanghyeon's 개발 공부 일지
