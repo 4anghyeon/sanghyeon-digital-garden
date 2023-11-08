@@ -94,10 +94,9 @@ function assignNested(obj, keyPath, value) {
   for (var i = 0; i < lastKeyIndex; ++i) {
     key = keyPath[i];
     if (!(key in obj)) {
-      obj[key] = { isFolder: true, isEmpty: true };
+      obj[key] = { isFolder: true };
     }
     obj = obj[key];
-    if (!value.hide) obj.isEmpty = false;
   }
   obj[keyPath[lastKeyIndex]] = value;
 }
