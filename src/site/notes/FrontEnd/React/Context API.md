@@ -12,3 +12,12 @@
 ![propdrilling.png](/img/user/FrontEnd/React/propdrilling.png)
 
 즉, 깊이가 깊어질수록 `props`가 어느 컴포넌트에서 왔는지 파악하기 힘들어지고, 관리와 오류 대응이 늦어진다.
+# Context API
+![propwithcontext.png](/img/user/FrontEnd/React/propwithcontext.png)
+
+이러한 점을 보완하기 위해 등장한 것이 Context API다. `useContext` Hook을 통해 쉽게 전역 데이터를 관리할 수 있다.
+
+많은 컴포넌트에서 동일 `state`를 사용할 경우 **`Context`** 를 사용해서 `props`로 데이터를 전달해주지 않아도 `state`에 접근할 수 있다.
+
+`Context는` 리액트의 `createContext`라는 함수를 이용해 만든다. 인자로는 `Context`의 기본값을 넣으며 어떤 값이든 올 수 있다.
+
