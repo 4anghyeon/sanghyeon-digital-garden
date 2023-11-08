@@ -2,7 +2,6 @@
 {"tags":["React"],"dg-publish":true,"dg-hide":true,"permalink":"/front-end/react/styled-components/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-
 # CSS In JS
 
 스타일링을 위해 CSS를 작성하는 것에는 많은 방법이 있다. 잘 아는 방식인 css 파일에 작성할 수도 있고, html에 인라인으로 작성할 수도 있다. 
