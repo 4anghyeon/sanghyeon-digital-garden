@@ -49,7 +49,7 @@ const Login = () => {
 ## Provider
 Context에 값을 동적으로 할당하여 제공하기 위해서는 Provider로 감싸줘야 한다.
 ```jsx
-<AuthContext.Provider
+return <AuthContext.Provider
       value={{
         isLoggedIn: isLoggedIn,
         onLogin: loginHandler,
@@ -59,3 +59,6 @@ Context에 값을 동적으로 할당하여 제공하기 위해서는 Provider�
       <Login />
 </AuthContext.Provider>
 ```
+
+> **주의 사항!**
+> useContext를 사용할 때, Provider에서 제공한 value가 달라진다면 useContext를 사용하고 있는 모든 컴포넌트가 리렌더링 된다. 따라서 이 부분을 항상 염두하고 사용 하자.
