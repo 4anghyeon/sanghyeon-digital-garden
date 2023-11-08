@@ -5829,7 +5829,7 @@ body {
   .callout[data-callout="question"],
   .callout[data-callout="help"],
   .callout[data-callout="faq"] {
-    --callout-color: 100, 221, 23;
+    --callout-color: 224, 172, 0;
     --callout-icon: help-circle;
   }
   .callout[data-callout="warning"],
@@ -6035,7 +6035,7 @@ body {
   }
   code[class*="language-"] {
     display: block;
-    padding: .75em;
+    padding: 1em;
     overflow: auto;
   }
   /* Inline code */
@@ -6134,9 +6134,8 @@ body {
     font-family: var(--font-monospace);
     background-color: var(--code-background);
     border-radius: var(--radius-s);
-    font-size: .75rem !important;
+    font-size: var(--code-size);
     padding: 0.1em 0.25em;
-    text-shadow: none;
   }
   .cm-s-obsidian span.cm-inline-code {
     color: var(--code-normal);
@@ -6500,7 +6499,6 @@ body {
     font-weight: var(--h2-weight);
     font-style: var(--h2-style);
     font-family: var(--h2-font);
-    margin: 35px 0 15px 0;
   }
   h2 a,
   .markdown-rendered h2 a,
@@ -7182,9 +7180,9 @@ body {
     border-width: var(--table-header-border-width);
     border-color: var(--table-header-border-color);
   }
-   // .markdown-rendered thead tr > th:nth-child(2n+2) {
-   //   background-color: var(--table-column-alt-background);
-   // }
+  .markdown-rendered thead tr > th:nth-child(2n+2) {
+    background-color: var(--table-column-alt-background);
+  }
   .markdown-rendered thead tr > th:first-child {
     border-left-width: var(--table-column-first-border-width);
   }
