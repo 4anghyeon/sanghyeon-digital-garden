@@ -35,3 +35,14 @@ const AuthContext = React.createContext({
 });
 ```
 
+## useContext
+Context를 사용할 컴포넌트에서 `useContext` hook을 이용한다.
+```jsx
+const Login = () => {
+	const ctx = useContext(AuthContext);
+	// ...
+}
+```
+
+`ctx` 변수에서 `props`가 아닌 Context를 통해 외부에서 선언된 값을 읽을 수 있다. 그러나 아직까지는 위에서 지정한 기본값 밖에 읽지 못한다.
+
