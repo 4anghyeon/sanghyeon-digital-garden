@@ -48,16 +48,17 @@ const Login = () => {
 
 ## Provider
 Context에 값을 동적으로 할당하여 제공하기 위해서는 Provider로 감싸줘야 한다.
-
 ```jsx
 function App() {
 	return (
+	<AuthContext.Provider
 	    value={{
 		    isLoggedIn,
 	        loginHandler,
 	        logoutHandler,
 	    }}>	
 	    <Login />
+	</AuthContext.Provider>)
 }
 ```
 
