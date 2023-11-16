@@ -87,7 +87,9 @@ export const plusN = (payload) => {
     type: PLUS_N,  
     payload: payload  
   }  
-}```
+}
+```
+
 action creator는 handler라고도 불리며, action 객체를 리턴하는 함수를 말한다. 단순히 파라미터를 받아와서 액션 객체 형태로 만들어 준다.
 
 ## Reducer
