@@ -7,18 +7,18 @@
 안녕하세요 이상현입니다.
 
 ### RECENTLY
-| 카테고리     | 제목                                                                     | 생성일                 |
-| -------- | ---------------------------------------------------------------------- | ------------------- |
-| React    | [[FrontEnd/React/Redux\|Redux]]                                     | 2023년 11월 09일 09:38 |
-| React    | [[FrontEnd/React/React Memoization 3종 세트\|React Memoization 3종 세트]] | 2023년 11월 08일 15:25 |
-| Home     | [[Spaces/Home/Home\|Home]]                                          | 2023년 11월 08일 14:39 |
-| React    | [[FrontEnd/React/Context API\|Context API]]                         | 2023년 11월 08일 11:38 |
-| React    | [[FrontEnd/React/useEffect\|useEffect]]                             | 2023년 11월 07일 15:43 |
-| React    | [[FrontEnd/React/Styled Components\|Styled Components]]             | 2023년 11월 07일 14:30 |
-| React    | [[FrontEnd/React/State Lifting\|State Lifting]]                     | 2023년 11월 06일 11:36 |
-| Etc      | [[Etc/npm과 npx 그리고 yarn\|npm과 npx 그리고 yarn]]                        | 2023년 11월 01일 11:20 |
-| React    | [[FrontEnd/React/Props와 State\|Props와 State]]                       | 2023년 10월 31일 20:23 |
-| FrontEnd | [[FrontEnd/React\|React]]                                           | 2023년 10월 31일 20:23 |
+| 카테고리  | 제목                                                                     | 생성일                 |
+| ----- | ---------------------------------------------------------------------- | ------------------- |
+| Web   | [[Computer Science/Web/REST\|REST]]                                 | 2023년 11월 10일 10:33 |
+| React | [[FrontEnd/React/Redux\|Redux]]                                     | 2023년 11월 09일 09:38 |
+| React | [[FrontEnd/React/React Memoization 3종 세트\|React Memoization 3종 세트]] | 2023년 11월 08일 15:25 |
+| Home  | [[Spaces/Home/Home\|Home]]                                          | 2023년 11월 08일 14:39 |
+| React | [[FrontEnd/React/Context API\|Context API]]                         | 2023년 11월 08일 11:38 |
+| React | [[FrontEnd/React/useEffect\|useEffect]]                             | 2023년 11월 07일 15:43 |
+| React | [[FrontEnd/React/Styled Components\|Styled Components]]             | 2023년 11월 07일 14:30 |
+| React | [[FrontEnd/React/State Lifting\|State Lifting]]                     | 2023년 11월 06일 11:36 |
+| Etc   | [[Etc/npm과 npx 그리고 yarn\|npm과 npx 그리고 yarn]]                        | 2023년 11월 01일 11:20 |
+| React | [[FrontEnd/React/Props와 State\|Props와 State]]                       | 2023년 10월 31일 20:23 |
 
 { .block-language-dataview}
 
